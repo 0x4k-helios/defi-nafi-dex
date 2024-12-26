@@ -28,6 +28,12 @@ export default {
   				DEFAULT: 'hsl(var(--secondary))',
   				foreground: 'hsl(var(--secondary-foreground))'
   			},
+			custombutton:{
+				DEFAULT: 'rgb(255,255,255)'
+			},
+			connectwallet:{
+				DEFAULT: 'rgb(70, 42, 223)'
+			},
   			muted: {
   				DEFAULT: 'hsl(var(--muted))',
   				foreground: 'hsl(var(--muted-foreground))'

@@ -36,7 +36,7 @@ const items = [
     title: "Pools",
     url: "#",
     icon: Droplet,
-  },
+  }, 
   {
     title: "Apps",
     url: "#",
